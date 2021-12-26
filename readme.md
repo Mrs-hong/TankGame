@@ -10,6 +10,5 @@
 ***  
 
 <img src="http://static.runoob.com/images/runoob-logo.png" width="50%">
-<u>第一个稍完整的java程序, 第一次使用GIT/GITHUB</u>  
+<u>*第一个稍完整的java程序, 第一次使用GIT/GITHUB*</u>  
 
-<u>带下划线文本</u>
